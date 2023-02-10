@@ -8,10 +8,16 @@ margin: 0;
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #9a140b;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Roman_Empire.svg/2270px-Flag_of_the_Roman_Empire.svg.png");
 }
 
 .container h1 {
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 42px;
+    color: #c4ad54;
 }
 
 #app-container {
